@@ -1,1 +1,2 @@
-# git_project
+# Git Project
+Lesson 11, [SkyPro](https://sky.pro)
